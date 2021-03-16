@@ -1,4 +1,4 @@
-import Document, { Html, Head, Main, NextScript } from 'next/Document';
+import Document, { Html, Head, Main, NextScript } from 'next/document';
 
 //static element present on each NextJS page
 export default class MyDocuments extends Document{
